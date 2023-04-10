@@ -1,0 +1,7 @@
+venv/
+catboost_info/
+lightning_logs/
+
+Лекция_2_Многоклассовая_классификация.ipynb
+weatherData.csv
+seattle-weather.csv
