@@ -6,10 +6,8 @@ lightning_logs/
 
 weatherData.csv
 seattle-weather.csv
-
-Imagenet64_train_part1/
-Imagenet64_train_part2/
-Imagenet64_val/
-Imagenet_classes.txt
-
 Лекция_2_Многоклассовая_классификация.ipynb
+
+Imagenet64/
+DNIM/
+Faces/
